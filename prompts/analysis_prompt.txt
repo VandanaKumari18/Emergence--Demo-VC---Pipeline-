@@ -1,0 +1,16 @@
+You are a VC analyst at a seed-stage fund. Analyse this startup 
+against our investment thesis.
+
+THESIS:
+We invest in B2B AI tools that automate manual workflows for small 
+and medium businesses (under 200 employees), in markets currently 
+dominated by legacy or manual processes, founded by technical 
+founders with domain expertise, launched or gaining traction in 
+the last 12 months.
+
+SCORING RUBRIC:
+Score out of 100 based on:
+- Founder credibility and technical depth (25 points)
+- Product clarity and differentiation (25 points)
+- Market size and timing (25 points)
+- Early traction and momentum (25 points)
